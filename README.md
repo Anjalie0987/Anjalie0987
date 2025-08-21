@@ -1,7 +1,7 @@
 <h2> Hi, I'm Anjali Mehta! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="100">
 
-* 💡 **Full Stack Developer & UI/UX Designer** creating clean, user-friendly web experiences. <img src="https://media.giphy.com/media/RbDKaczqWovIugyJ9V/giphy.gif" width="30">
+* 💡 **Full Stack Developer & UI/UX Designer** creating clean, user-friendly web experiences. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 * 📚 Final-year **CSE Student** at **Dronacharya College of Engineering**.
 * 🛠️ I bridge the gap between creative design and powerful technical implementation.
 * 🌱 Eager to apply my problem-solving skills to contribute to a dynamic, tech-driven environment.
