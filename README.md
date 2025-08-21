@@ -1,5 +1,5 @@
 <h2> Hi, I'm Anjali Mehta! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="100">
+<img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJjbXYybzd2MXo3bml2NmE1MmtzYWFpbnNraWhybDBiZmg3bzgyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dWxO36Jzd6bTSt5dIY/giphy.gif" width="100">
 
 * 💡 **Full Stack Developer & UI/UX Designer** creating clean, user-friendly web experiences. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 * 📚 Final-year **CSE Student** at **Dronacharya College of Engineering**.
@@ -35,3 +35,8 @@ const anjali = {
   certifications: ["Python Programming (IIT Bombay)", "Python for Data Science (NPTEL)", "Machine Learning (Coursera)"],
   achievements: "Finalist in the Harvesting Innovations Hackathon & presented a research paper at the ICRTMD-2023 conference."
 }
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
