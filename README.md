@@ -7,7 +7,7 @@
 * 🌱 Eager to apply my problem-solving skills to contribute to a dynamic, tech-driven environment.
 
 [![Linkedin: anjali-mehta](https://img.shields.io/badge/-Anjali_Mehta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anjali-mehta-50129b275/)](https://www.linkedin.com/in/anjali-mehta-50129b275/)
-[![GitHub AnjaliMehta2310](https://img.shields.io/github/followers/AnjaliMehta2310?label=follow&style=social)](https://github.com/AnjaliMehta2310)
+[![GitHub AnjaliMehta2310](https://img.shields.io/github/followers/AnjaliMehta2310?label=follow&style=social)](https://github.com/Anjalie0987)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
