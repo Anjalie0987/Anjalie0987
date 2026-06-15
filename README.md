@@ -28,10 +28,7 @@ const anjali = {
     databases: ["MySQL", "MongoDB"],
     machineLearning: ["Deep Learning", "Neural Networks"]
   },
-  projects: {
-    pravah: "An AI-powered biodiversity monitoring platform where I designed the UI/UX and built the frontend.",
-    kaaryaTrinetra: "An AI-driven construction analysis tool where I engineered the mobile-friendly web interface."
-  },
+  
   certifications: ["Python Programming (IIT Bombay)", "Python for Data Science (NPTEL)", "Machine Learning (Coursera)"],
   achievements: "Finalist in the Harvesting Innovations Hackathon & presented a research paper at the ICRTMD-2023 conference."
 }
