@@ -19,7 +19,7 @@ const anjali = {
   technologies: {
     languages: ["Java", "JavaScript", "Python", "SQL"],
     frontend: {
-      dev: ["React", "HTML5", "CSS3", "Tailwind CSS"],
+      dev:    ["React", "HTML5", "CSS3", "Tailwind CSS"],
       design: ["Figma", "Canva"]
     },
     backend: {
@@ -29,8 +29,8 @@ const anjali = {
   },
   
   achievements: "Finalist - Harvesting Innovations Hackathon"
-  "Research Paper Presenter - ICRTMD-2023."
-  "Selected for AICTE IDE Bootcamp at IIT Jammu."
+                "Research Paper Presenter - ICRTMD-2023."
+                "Selected for AICTE IDE Bootcamp at IIT Jammu."
 }
 ```
 
